@@ -49,4 +49,7 @@ public class FoodVO {
     public void setIcon(String icon) {
         this.icon = icon;
     }
+
+
+
 }
